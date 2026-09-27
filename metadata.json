@@ -1,0 +1,6 @@
+{
+  "name": "KPN Warehouse",
+  "description": "Aplikasi Manajemen Data Gudang Modern & Profesional Powered by Andre. Mendukung input data, foto dokumentasi, offline sync, dan export Excel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

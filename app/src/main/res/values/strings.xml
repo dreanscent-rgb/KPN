@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">KPN Warehouse</string>
+    <string name="app_subtitle">Powered by Andre</string>
+    <string name="app_tagline_id">Aplikasi Manajemen Data Gudang</string>
+    <string name="app_tagline_zh">仓库数据管理应用</string>
+</resources>
